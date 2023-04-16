@@ -1,3 +1,4 @@
+![logo](https://github.com/mirza182/Hamza-Nadir/blob/main/markus-spiske-8OyKWQgBsKQ-unsplash.jpg)
 <h1 align="center">Hi 👋, I'm Hamza Nadir</h1>
 <h3 align="center">A data science enthusiast from Pakistan</h3>
 
